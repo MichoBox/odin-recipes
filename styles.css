@@ -28,7 +28,7 @@ div{
 }
 
 .recipe{ 
-    width: fit-content;
+    width: min-content;
     background-color: white;
 }
 
@@ -55,7 +55,7 @@ div{
     width: fit-content;
     background-color: white;
     list-style-position: inside;
-    text-align: left;
+    text-align: center;
 }
 
 .hotc{
