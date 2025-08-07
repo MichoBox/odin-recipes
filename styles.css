@@ -22,7 +22,7 @@ div{
 }
 
 .heading{
-    width: 300px;
+    width: fit-content;
     border-color: black;
     background-color: aquamarine;   
 }
@@ -35,7 +35,7 @@ div{
 .recipe a{
     text-decoration: none;
     color: black;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .recipe a:hover {
@@ -47,3 +47,23 @@ div{
     background-color: white;
 }
 
+.button{
+    font-size: 50px;
+}
+
+.lists{
+    width: fit-content;
+    background-color: white;
+    list-style-position: inside;
+    text-align: left;
+}
+
+.hotc{
+    width: 12em ;
+    background-color: white;
+}
+
+.cheese{
+    width: fit-content ;
+    background-color: white;
+}
