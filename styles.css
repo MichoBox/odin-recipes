@@ -28,7 +28,7 @@ div{
 }
 
 .recipe{ 
-    width: 225px;
+    width: 8em;
     background-color: white;
 }
 
@@ -43,7 +43,7 @@ div{
 }
 
 .images{
-    width: 700px;
+    width: 23em;
     background-color: white;
 }
 
