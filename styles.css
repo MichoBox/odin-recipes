@@ -28,7 +28,7 @@ div{
 }
 
 .recipe{ 
-    width: 8em;
+    width: min-content;
     background-color: white;
 }
 
