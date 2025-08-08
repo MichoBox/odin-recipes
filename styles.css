@@ -8,18 +8,21 @@
 body{
     font-family: sans-serif;
     background-color: antiquewhite;
+    min-width: 1000px;
 }
+
+
 
 div{
     margin: auto;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    padding: 20px;
-    border: 5px solid;
+    margin-top: 2.5em;
+    margin-bottom: 2.5em;
+    padding: 1.2em;
+    border: 0.2em solid;
     text-align: center;
-    font-size: 30px;
-    border-radius: 6px;
-    width: fit-content;
+    font-size: 1.6em;
+    border-radius: 0.3em;
+    
 }
 
 .heading{
@@ -44,12 +47,8 @@ div{
 }
 
 .images{
-    width: 23em;
+    width: 26em;
     background-color: white;
-}
-
-.button{
-    font-size: 50px;
 }
 
 .lists{
@@ -61,11 +60,16 @@ div{
 }
 
 .hotc{
-    width: 12em ;
+    width: fit-content;
     background-color: white;
 }
 
 .cheese{
     width: fit-content ;
+    background-color: white;
+}
+
+.chop{
+    width: fit-content;
     background-color: white;
 }
