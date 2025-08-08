@@ -19,6 +19,7 @@ div{
     text-align: center;
     font-size: 30px;
     border-radius: 6px;
+    width: fit-content;
 }
 
 .heading{
@@ -28,7 +29,7 @@ div{
 }
 
 .recipe{ 
-    width: min-content;
+    width: fit-content;
     background-color: white;
 }
 
@@ -55,7 +56,8 @@ div{
     width: fit-content;
     background-color: white;
     list-style-position: inside;
-    text-align: center;
+    text-align: left;
+    align-content: center;
 }
 
 .hotc{
